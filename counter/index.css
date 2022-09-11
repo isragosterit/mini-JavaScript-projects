@@ -1,0 +1,31 @@
+h1 {
+  font-family: poppins;
+  text-align: center;
+  margin-top: 15%;
+  letter-spacing: 0.2em;
+}
+span {
+  font-family: poppins;
+  font-size: 50px;
+  margin-left: 49%;
+}
+button {
+  font-size: 20px;
+  font-family: poppins;
+  margin-left: 1%;
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  border-radius: 6%;
+  background-color: #d8ded6;
+}
+button:hover {
+  color: #ffffff;
+  background-color: #000000;
+  border-color: #ffffff;
+}
+body {
+  padding-top: 20%;
+}
+.buttons-container {
+  text-align: center;
+}
