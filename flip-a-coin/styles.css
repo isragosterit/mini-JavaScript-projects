@@ -1,0 +1,18 @@
+* {
+  font-family: monospace;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #b7cdb4;
+}
+body {
+  margin-top: 15%;
+}
+button {
+  padding: 10px 30px;
+  font-size: 130%;
+  background-color: #fff;
+}
+button:hover {
+  color: #fff;
+  background-color: #99c688;
+}
