@@ -1,0 +1,63 @@
+* {
+  text-align: center;
+  background-color: #fff4cf;
+}
+.add-task {
+  padding-top: 5%;
+  color: #2d2d2d;
+}
+h1 {
+  font-family: Bungee Spice;
+}
+#input {
+  height: 27px;
+  width: 800px;
+  border: 1px solid #ffb200;
+  border-radius: 1%;
+}
+#input:hover {
+  border-color: #4dbac7;
+}
+.save-button {
+  font-family: Raleway;
+  font-size: 20px;
+  margin-left: 1%;
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  background-color: #4dbac7;
+  border-color: #ffffff;
+}
+.save-button:hover {
+  background-color: #ffb200;
+}
+button {
+  font-family: Raleway;
+  font-size: 16px;
+  margin-left: 1%;
+  letter-spacing: 0.1em;
+  line-height: 150%;
+  background-color: #4dbac7;
+  border-color: #ffffff;
+}
+li {
+  list-style: none;
+  font-family: Raleway;
+  text-align: center;
+  font-size: 17px;
+  padding-left: 0%;
+  margin: 1% 25%;
+  border: 1px solid #ffcb42;
+  height: 90px;
+  overflow-x: scroll;
+}
+li:hover {
+  color: #277bc0;
+  cursor: pointer;
+}
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #ffcb42;
+  border-radius: 10px;
+}
