@@ -1,0 +1,38 @@
+body{
+    background-color: #F4F6F1;
+    color: #000000;
+    font-family:Roboto;
+    min-width: 400px;
+}
+
+input {
+    width:100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #5faeab;
+    margin-bottom: 5px;
+    border: 1px solid #5faeab;
+}
+
+button {
+    background: #5faeab;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+button:hover {
+    background: #5faeabaf;
+} 
+
+ul{
+    list-style: none;
+    margin-left: -2%;
+}
+
+a{
+    color: #489ae2 !important;
+    font-size: 15px;
+}
